@@ -1,0 +1,17 @@
+C:\Users\grinn\source\repos\digger\bin\Debug\Images\Digger.png
+C:\Users\grinn\source\repos\digger\bin\Debug\Images\Gold.png
+C:\Users\grinn\source\repos\digger\bin\Debug\Images\Monster.png
+C:\Users\grinn\source\repos\digger\bin\Debug\Images\Sack.png
+C:\Users\grinn\source\repos\digger\bin\Debug\Images\Terrain.png
+C:\Users\grinn\source\repos\digger\bin\Debug\11-digger.exe.config
+C:\Users\grinn\source\repos\digger\bin\Debug\11-digger.exe
+C:\Users\grinn\source\repos\digger\bin\Debug\11-digger.pdb
+C:\Users\grinn\source\repos\digger\bin\Debug\nunit.framework.dll
+C:\Users\grinn\source\repos\digger\obj\Debug\Digger.csproj.AssemblyReference.cache
+C:\Users\grinn\source\repos\digger\obj\Debug\Digger.csproj.SuggestedBindingRedirects.cache
+C:\Users\grinn\source\repos\digger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\grinn\source\repos\digger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\grinn\source\repos\digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\grinn\source\repos\digger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\grinn\source\repos\digger\obj\Debug\11-digger.exe
+C:\Users\grinn\source\repos\digger\obj\Debug\11-digger.pdb
